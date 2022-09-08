@@ -38,5 +38,5 @@ The dataset used is [Global Landside Catalog](https://data.nasa.gov/Earth-Scienc
 29. last_edited_date	
 30. longitude
 31. latitude
-![image](https://user-images.githubusercontent.com/72350161/189150276-88fc2834-84c8-4d29-b260-71d12ba9e3c0.png)
+
  
